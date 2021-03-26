@@ -8,6 +8,10 @@
 
 http://js.jirengu.com/xipeq/1/edit?html,css,output
 
+[皮卡丘模板](https://codepen.io/TeorikDeli/pen/CozBw)
+
+[哆啦A梦模板](https://codepen.io/minukang/pen/VYeZoJ)
+
 
 
 ## 2021年3月24日
